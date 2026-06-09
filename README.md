@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Pinnamaneni Mahendra
 
 # 💫 About Me:
-🔭 I’m currently working on building Full Stack applications using React and FastAPI  <br>👯 I’m looking to collaborate on real-world web development and open-source projects  <br>🤝 I’m looking for help with advanced System Design and scalable backend architecture  <br>🌱 I’m currently learning Data Structures & Algorithms and improving my problem-solving skills  <br>💬 Ask me about Python, FastAPI, React, and DSA  <br>⚡ Fun fact: I enjoy solving coding problems and turning ideas into real applications  
+🔭 I’m currently working on building Full Stack applications using React and FastAPI  <br>👯 I’m looking to collaborate on real-world web development and open-source projects  <br>🌱 I’m currently learning Data Structures & Algorithms and improving my problem-solving skills  <br>💬 Ask me about Python, FastAPI, React, and DSA  <br>⚡ Fun fact: I enjoy solving coding problems and turning ideas into real applications  
 
 
 ## 🌐 Socials:
